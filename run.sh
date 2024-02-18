@@ -1,4 +1,4 @@
-echo "docker pull "docker image"
+echo "docker pull docker image"
 docker pull 0xaragondocker/leo_docker:latest
 
 echo "docker image ls"
